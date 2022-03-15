@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class PostCodeSearch {
 	public static void main(String args[]) {
-		ZipDB3 zd3 = new ZipDB3("郵便番号ファイル");
+		PostCodeDB zd3 = new PostCodeDB("郵便番号ファイル");
 
 		Scanner s = new Scanner(System.in);
 
