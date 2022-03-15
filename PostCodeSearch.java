@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ZipSearch8 {
+public class PostCodeSearch {
 	public static void main(String args[]) {
 		ZipDB3 zd3 = new ZipDB3("郵便番号ファイル");
 
