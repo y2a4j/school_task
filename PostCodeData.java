@@ -34,7 +34,7 @@ public class PostCodeData {
 
 	@Override
 	public String toString() {
-		return "ZipData [zipcode=" + zipcode + ", pref=" + pref + ", city=" + city + ", town=" + town + "]";
+		return "PostCodeData [zipcode=" + zipcode + ", pref=" + pref + ", city=" + city + ", town=" + town + "]";
 	}
 
 }
