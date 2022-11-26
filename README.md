@@ -1,6 +1,4 @@
 # school_task
-
-学校の課題で作ったもの（java）
-
-郵便番号ファイルを用いて住所の検索を行うもの、
-ルービックキューブの画像を作成したもの
+School assignments,.
+An address search using zip code data 
+a　one to create an image of a Rubik's cube.
